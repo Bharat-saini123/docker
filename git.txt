@@ -1,0 +1,23 @@
+git init
+git clone <repository_url>
+git add <file(s)>
+git commit -m "Commit message"
+git status
+git log
+git branch <branch_name>
+git checkout <branch_name> or git switch <branch_name>
+git checkout -b <new_branch_name> or git switch -c <new_branch_name>
+git merge <branch_name>
+git fetch
+git pull
+git push
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git diff
+git restore <file(s)>
+git reset HEAD^
+git stash
+git stash apply
+git clean -df
+
+
