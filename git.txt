@@ -19,5 +19,11 @@ git reset HEAD^
 git stash
 git stash apply
 git clean -df
+git blame file-name
+git show commet-id
+git reset --hard <commit-id>
+git revert commit-id
+git log --oneline
+git stash
 
 
