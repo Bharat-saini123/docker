@@ -1,0 +1,18 @@
+npx tsc -v
+
+npx tsc --init
+
+npx tsc
+
+npx tsc -w
+
+npx ts-node filename.ts
+
+npm install typescript --save-dev
+
+npx ts-node-dev --respawn filename.ts
+
+type annotations is user declare type and type inference is typescript automatic declare.
+
+
+

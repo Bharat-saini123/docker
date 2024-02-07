@@ -1,7 +1,7 @@
 docker run -it ubuntu
 whoami
 ls
-control d se container band ho jayga
+control d se container band ho jaeyga
 docker container
 docker container ls
 docker container ls -a
@@ -14,7 +14,7 @@ docker run -it -p 1025:1025
 docker run -it -p 1025:1025 -e key=value -e key=value
 docker build -t image-name path( docker build -t saini-sahab .)
 docker compose up
-docker conmpose down
+docker compose down
 docker compose up -d
 touch abc.js
 
