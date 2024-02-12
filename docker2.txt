@@ -23,6 +23,8 @@ docker network inspect bridge
 docker network ls
 docker run -it --network=host image-name
 docker network create -d bridge network-name
+docker network rm <network_name_or_id>
+
 
 
 
